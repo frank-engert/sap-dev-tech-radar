@@ -1,0 +1,17 @@
+[page]
+title = "SAPscript"
+description = "First SAP forms technology from 1992."
+reason = "Very old script based technology with restricions in modern layout like barcodes or pictures. People with SAPscript knowledge are getting less and less."
+support "Supported at least till 2040 (follows S/4HANA maintenance strategy), but not recmommended"
+
+[links]
+name_link1 = "LINK1"
+name_link2 = "LINK2"
+name_link3 = "LINK3"
+
+[config]
+label = "SAPscript"
+ring = "STOP"
+quadrant = "Technology"
+active = true
+moved = 0
