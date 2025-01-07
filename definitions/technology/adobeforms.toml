@@ -1,0 +1,15 @@
+[page]
+title = "Adobe Forms"
+description = "Most current SAP forms technology. Desgin has to be done with Adobe LiveCycle Designer for SAP solutions."
+reason = "Recommended form technologiy."
+support "Supported"
+
+[links]
+"SAP Help" = "https://help.sap.com/docs/SAP_NETWEAVER_AS_ABAP_752/e0e3d14ea0214efc82251725ba84c4a1/3584138ddf464826b6e719b384c8e938.html?locale=en-US"
+
+[config]
+label = "Adobe Forms"
+ring = "USE"
+quadrant = "Technology"
+active = true
+moved = 0
